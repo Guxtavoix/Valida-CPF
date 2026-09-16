@@ -37,7 +37,7 @@ Se o resultado bater exatamente com o que o usuário digitou, o CPF é considera
    ```
 4. Execute o script:
    ```bash
-   python validador_cpf.py
+   python validacpf.py
    ```
 
 ---
